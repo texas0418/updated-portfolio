@@ -106,6 +106,16 @@ a:hover {
   border-width: 10px;
 }
 
+#liri-bot.projects-info {
+  background-image: url("../images/liri_bot.jpg");
+  background-size: cover;
+  width: 400px;
+  height: 225px;
+  margin-right: 10px;
+  border-style: solid;
+  border-width: 10px;
+}
+
 #coming-soon.projects-info {
   background-image: url("../images/coming-soon.png");
   background-size: cover;
